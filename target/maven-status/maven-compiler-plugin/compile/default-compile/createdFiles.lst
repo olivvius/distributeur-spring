@@ -1,0 +1,10 @@
+com\spring\controller\DistributeurController.class
+com\spring\model\Produit.class
+com\spring\service\UserService.class
+com\spring\service\UserInterface.class
+com\spring\service\UserForm.class
+com\spring\service\ProduitService.class
+com\spring\service\BuyForm.class
+com\spring\Application.class
+com\spring\repository\ProduitRepository.class
+com\spring\service\ProduitInterface.class
